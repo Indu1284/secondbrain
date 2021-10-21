@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "2e9200215ddd91e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8adb74c0287e107e",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70b7417e24f7078a",
+    "type": "split",
+    "children": [
+      {
+        "id": "769c45e6b35165af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbade45f9599b028",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ce1e3fc782a7c05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6dcefca0a941511e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b40f9fa1a0c06b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b47574dcc96d9a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8adb74c0287e107e",
+  "lastOpenFiles": [
+    "Time.md",
+    "uhr.jpg",
+    "uhr.png.md",
+    "Pink Floyd.md",
+    "Kraftwerk.md",
+    "Düsseldorf.md",
+    "Phillip.md",
+    "Lindner.md",
+    "Gursky.md"
+  ]
+}

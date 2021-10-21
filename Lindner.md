@@ -1,0 +1,1 @@
+Christian Lindner ist ein Politiker aus [[Düsseldorf]].
